@@ -1,9 +1,8 @@
-### Hi there 👋
+# Hi there 👋 My name is Katherine!
+---
 
-<!--
-**ksooooza/ksooooza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I want to be part of the change that drives the future. My critical thinking skills, self-motivation, and initiative will allow me to succeed in my next role as a full stack software engineer. I am hoping to find a role that will provide challenge and excitement and allow me to grow into the next best version of myself.
+---
 
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Python
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ksouza97)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I can dance you a real Irish Jig!
--->
