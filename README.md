@@ -4,8 +4,8 @@
 I want to be part of the change that drives the future. My critical thinking skills, self-motivation, and initiative will allow me to succeed in my next role as a full stack software engineer. I am hoping to find a role that will provide challenge and excitement and allow me to grow into the next best version of myself.
 ---
 
-- 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on the 30 days of the Javascript challenge!
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Website and App design
 - 🤔 I’m looking for help with finding a job
 - 💬 Ask me about music
